@@ -1,0 +1,4 @@
+qrencode
+========
+
+libqrencode for Qt
